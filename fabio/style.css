@@ -1,0 +1,32 @@
+.geral {
+    padding: 20px;
+}
+
+.gemeas {
+    display: flex;
+}
+
+.um {
+    margin-left: 50px;
+    background-color: rgb(129, 125, 129);
+    display: flex;
+    border-radius: 10px;
+}
+
+.dois {
+    margin-left: 95px;  
+    margin-top: 20px;
+    background-color: rgb(129, 125, 129);
+    display: flex;
+    border-radius: 10px;
+    margin-right: 20px;
+}
+
+.tres {
+    margin-left: 120px;  
+    margin-top: 20px;
+    background-color: rgb(129, 125, 129);
+    display: flex;
+    border-radius: 10px;
+    margin-right: 20px;
+}
